@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HobbyChaton</title>
+  
+  
+  <link href="https://hobbychaton.github.io/hobbychaton/atom.xml" rel="self"/>
+  
+  <link href="https://hobbychaton.github.io/hobbychaton/"/>
+  <updated>2025-07-14T08:02:20.255Z</updated>
+  <id>https://hobbychaton.github.io/hobbychaton/</id>
+  
+  <author>
+    <name>HobbyChaton</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://hobbychaton.github.io/hobbychaton/2025/07/13/Home/"/>
+    <id>https://hobbychaton.github.io/hobbychaton/2025/07/13/Home/</id>
+    <published>2025-07-13T07:20:21.577Z</published>
+    <updated>2025-07-14T08:02:20.255Z</updated>
+    
+    <content type="html"><![CDATA[<html><head><style>        .image-gallery {            display: flex;            flex-wrap: wrap; /* 允许换行 */            gap: 10px; /* 图片间距 */        }        .image-gallery img {            width: 250px; /* 5张图平均宽度 - 间距 */            height: auto; /* 保持比例 */            object-fit: cover; /* 填充方式（可选） */        }        /* 响应式适配：小屏幕时每行显示更少图片 */        @media (max-width: 800px) {            .image-gallery img {                width: 200px; /* 每行3张 */            }        }        @media (max-width: 500px) {            .image-gallery img {                width: 150px; /* 每行2张 */            }        }</style></head><body><p style="font-size: 1.5em;text-align: center;">Eagerly crafting now</p>    <div class="image-gallery">        <img width="500px" src="http://i0.hdslb.com/bfs/new_dyn/adfda2cd889a75e0fc5ef0bce819a0c930160.jpg" referrerpolicy="no-referrer">        <img width="500px" src="http://i0.hdslb.com/bfs/new_dyn/3ac76d3f7e6f1e101409ec5c025f1f0930160.jpg" referrerpolicy="no-referrer">        <img width="500px" src="http://i0.hdslb.com/bfs/new_dyn/ee24f7afeab7e2acc4af92f2352f7db030160.jpg" referrerpolicy="no-referrer">        <img width="500px" src="http://i0.hdslb.com/bfs/new_dyn/1eca2e8ef8acee901a3ba4c20385fccf30160.jpg" referrerpolicy="no-referrer">        <img width="500px" src="http://i0.hdslb.com/bfs/new_dyn/d625fe1c9744ea6c9661155f47f8c2eb30160.jpg" referrerpolicy="no-referrer">    </div></body></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;html&gt;
+&lt;head&gt;
+&lt;style&gt;
+        .image-gallery {
+            display: flex;
+            flex-wrap: wrap; /* 允许换行 */
+            gap: 10px; /* </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
