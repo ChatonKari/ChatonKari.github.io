@@ -267,3 +267,29 @@ footer>.container>.row>p>a:hover  {
 		letter-spacing: 4px;
 	}
 }
+
+.preorder {
+	color: #fefefe;
+	font-size: 1.2em;
+	text-align: Left;
+	line-height: 1.2em;
+	padding-left: -50px;
+}
+
+.preorder_title {
+	color: #ff9900;
+	font-size: 1.5em;
+	text-align: Left;
+}
+
+.preorder_area {
+	color: #e48080;
+	font-size: 1.2em;
+	text-align: Left;
+}
+
+.preorder_date {
+	color: #e48080;
+	font-size: 1.2em;
+	text-align: Left;
+}
